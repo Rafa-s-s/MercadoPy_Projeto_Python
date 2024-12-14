@@ -106,6 +106,8 @@ O **MercadoPy** foi desenvolvido com o objetivo de praticar conceitos de program
 - **Adicionar Funções de Relatórios**: Como vendas e inventário.
 
 ---
+## Download
+Baixe a versão mais recente do MercadoPy na seção de [Releases](aqui).
 
 ## Licença
 
