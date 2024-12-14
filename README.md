@@ -107,7 +107,7 @@ O **MercadoPy** foi desenvolvido com o objetivo de praticar conceitos de program
 
 ---
 ## Download
-Baixe a versão mais recente do MercadoPy na seção de [Releases](aqui).
+Baixe a versão mais recente do MercadoPy na seção de [Releases](https://github.com/Rafa-s-s/MercadoPy_Projeto_Python/releases/tag/v1.0.0).
 
 ## Licença
 
