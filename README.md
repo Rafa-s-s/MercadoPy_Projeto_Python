@@ -106,9 +106,14 @@ O **MercadoPy** foi desenvolvido com o objetivo de praticar conceitos de program
 - **Adicionar Funções de Relatórios**: Como vendas e inventário.
 
 ---
+[Acesse o notebook explicativo do projeto MercadoPy](https://github.com/Rafa-s-s/MercadoPy_Projeto_Python/blob/main/MercadoPy_Explica%C3%A7%C3%A3o.ipynb)
+
 ## Download
 Baixe a versão mais recente do MercadoPy na seção de [Releases](https://github.com/Rafa-s-s/MercadoPy_Projeto_Python/releases/tag/v1.0.0).
 
 ## Licença
 
 Este projeto está licenciado sob a **MIT License**.
+
+---
+![MercadoPy _img](https://github.com/user-attachments/assets/3463f750-2ad3-40b1-898d-97bf79bd6a99)
