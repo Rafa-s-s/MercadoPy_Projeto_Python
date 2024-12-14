@@ -106,6 +106,8 @@ O **MercadoPy** foi desenvolvido com o objetivo de praticar conceitos de program
 - **Adicionar Funções de Relatórios**: Como vendas e inventário.
 
 ---
+## Explicação Interativa do Projeto
+Para uma explicação detalhada e interativa do código, incluindo exemplos e a lógica por trás de cada parte, confira o seguinte arquivo:
 [Acesse o notebook explicativo do projeto MercadoPy](https://github.com/Rafa-s-s/MercadoPy_Projeto_Python/blob/main/MercadoPy_Explica%C3%A7%C3%A3o.ipynb)
 
 ## Download
