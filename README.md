@@ -44,7 +44,7 @@ MercadoPy/
 
 1. **Clonar o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/MercadoPy.git
+   git clone https://github.com/Rafa-s-s/MercadoPy.git
    cd MercadoPy
    ```
 
